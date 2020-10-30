@@ -1,7 +1,8 @@
 # 🗻 Développeur PHP
 👤 Thibault Marquand |
 __Status:__ Freelance |
-__Website__ [Marquand.pro](https://marquand.pro) |
+__Portfolio__ [Marquand.pro](https://marquand.pro) | 
+__Blog__ [Mediashare.fr](https://mediashare.fr) | 
 __Github:__ [Mediashare](https://github.com/Mediashare) | 
 __Hosting:__ [Cloudfile.tech](https://cloudfile.tech)
 
