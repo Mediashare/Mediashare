@@ -1,10 +1,10 @@
 # 🗻 Développeur PHP
 👤 Thibault Marquand |
-__Status:__ Freelance |
+__Status__ Freelance |
 __Portfolio__ [Marquand.pro](https://marquand.pro) | 
 __Blog__ [Mediashare.fr](https://mediashare.fr) | 
-__Github:__ [Mediashare](https://github.com/Mediashare) | 
-__Hosting:__ [Cloudfile.tech](https://cloudfile.tech)
+__Github__ [Mediashare](https://github.com/Mediashare) | 
+__Hosting__ [Cloudfile.tech](https://cloudfile.tech)
 
 Gérer la communication de votre entreprise en produisant un contenue enrichie sur le web et contrôler vos flux d'informations via des outils personnalisés accessible à vos équipes.
 
