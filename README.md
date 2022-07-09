@@ -4,7 +4,8 @@ __Status__ Freelance |
 __Portfolio__ [Marquand.pro](https://marquand.pro) | 
 __Blog__ [Mediashare.fr](https://mediashare.fr) | 
 __Github__ [Mediashare](https://github.com/Mediashare) | 
-__Hosting__ [Cloudfile.tech](https://cloudfile.tech)
+__Hosting__ [Cloudfile.tech](https://cloudfile.tech) | 
+__OS__ [OS.directory](https://os.directory)
 
 Gérer la communication de votre entreprise en produisant un contenue enrichie sur le web et contrôler vos flux d'informations via des outils personnalisés accessible à vos équipes.
 
